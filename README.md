@@ -1,7 +1,7 @@
 # PHP-MySQL
 Student Enrollment System 
-Note: UniServer needs to be installed on system
-      Create Administrator User Account with PHPMyAdmin.
+Note: UniServer needs to be installed on system.
+      Create Administrator aser account with PHPMyAdmin when installed.
 
 Download all files and place inside a folder name aceTraining.
 Load localhost/aceTraining.
